@@ -1,0 +1,4 @@
+spring:
+  application.name: hhplus-tdd
+server:
+  port: 9001
